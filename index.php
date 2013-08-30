@@ -17,7 +17,7 @@
 					<li><a href="#"><span class="city-name">الزرقاء </span><span class="state-num">| 9,999 عقار</span></a></li>
 					<li><a href="#"><span class="city-name">البلقاء </span><span class="state-num">| 9,999 عقار</span></a></li>
 					<li><a href="#"><span class="city-name">الكرك </span><span class="state-num">| 9,999 عقار</span></a></li>
-					<li><a href="#"><span class="city-name">المفرق </span><span class="state-num">| 9,999 عقار</span></a></li>
+					<li><a href="#"><span class="city-name">Abu Dhabi </span><span class="state-num">| 9,999 عقار</span></a></li>
 					<li><a href="#"><span class="city-name">جرش </span><span class="state-num">| 9,999 عقار</span></a></li>
 					<li><a href="#"><span class="city-name">مأدبا </span><span class="state-num">| 9,999 عقار</span></a></li>
 					<li><a href="#"><span class="city-name">عجلون </span><span class="state-num">| 9,999 عقار</span></a></li>
